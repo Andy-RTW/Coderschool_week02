@@ -9,3 +9,5 @@ console.log(radius);
 var area=pi*radius*radius;
 var result="The area of a circle given the radius "+radius+" (m) is "+area+" (m2)";
 console.log(result);
+
+var result
